@@ -1,0 +1,10 @@
+matplotlib
+numpy
+open3d
+opencv_python
+scikit-image
+shapely
+psycopg2
+pandas
+Pyarrow
+openpyxl
