@@ -1,7 +1,5 @@
 .venv
 cs
 diff
-pic
-depth_pic
 *.pyc
 *.xlsx
